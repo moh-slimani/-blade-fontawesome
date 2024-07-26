@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/packagist/dt/moh-slimani/blade-fontawesome" alt="Total Downloads">
 </a>
 
-A package to easily make use of [Fontawesome](https://github.com/refactoringui/heroicons) in your Laravel Blade views.
+A package to easily make use of [Fontawesome](https://fontawesome.com/) in your Laravel Blade views.
 
 For a full list of available icons see [the SVG directory](resources/svg) or preview them at [fontawesome.com](https://fontawesome.com/).
 
