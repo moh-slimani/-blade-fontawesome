@@ -1,12 +1,12 @@
 {
-    "name": "blade-organization/blade-heroicons",
-    "description": "A package to easily make use of Heroicons in your Laravel Blade views.",
-    "keywords": ["Blade", "Heroicons", "Laravel"],
-    "homepage": "https://github.com/blade-organization/blade-heroicons",
+    "name": "moh-slimani/blade-fontawesome",
+    "description": "A package to easily make use of FontAwesome in your Laravel Blade views.",
+    "keywords": ["Blade", "FontAwesome", "Laravel"],
+    "homepage": "https://github.com/moh-slimani/blade-fontawesome",
     "license": "MIT",
     "authors": [
         {
-            "name": "Blade Developer"
+            "name": "Mohamed Slimani"
         }
     ],
     "require": {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BladeUI\\Heroicons\\": "src"
+            "MohSlimani\\Fontawesome\\": "src"
         }
     },
     "autoload-dev": {
@@ -31,7 +31,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "BladeUI\\Heroicons\\BladeHeroiconsServiceProvider"
+                "MohSlimani\\Fontawesome\\BladeFontawesomeServiceProvider"
             ]
         }
     },
