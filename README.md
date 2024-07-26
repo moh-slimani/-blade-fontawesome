@@ -1,7 +1,7 @@
 # Blade Icons Template
 
 <a href="https://github.com/moh-slimani/blade-fontawesome/actions?query=workflow%3ATests">
-    <img src="https://github.com/blade-ui-kit/blade-fontawesome/workflows/Tests/badge.svg" alt="Tests">
+    <img src="https://github.com/moh-slimani/blade-fontawesome/workflows/Tests/badge.svg" alt="Tests">
 </a>
 <a href="https://packagist.org/packages/moh-slimani/blade-fontawesome">
     <img src="https://img.shields.io/packagist/v/moh-slimani/blade-fontawesome" alt="Latest Stable Version">
