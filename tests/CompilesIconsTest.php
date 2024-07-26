@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Tests;
 
-use MohSlimani\Fontawesome\BladeFontawesomeServiceProvider;
 use BladeUI\Icons\BladeIconsServiceProvider;
+use MohSlimani\Fontawesome\BladeFontawesomeServiceProvider;
 use Orchestra\Testbench\TestCase;
 
 class CompilesIconsTest extends TestCase
